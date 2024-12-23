@@ -11,6 +11,5 @@ public class Application {
 		Coolveriable coolveriable = new Coolveriable();
 		System.out.println("숫자로된 문자열을 입력해주세요");
 		coolveriable.coolint(sc.nextLine());
-
 	}
 }
